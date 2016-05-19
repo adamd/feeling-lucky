@@ -20,4 +20,4 @@ coffee,https://en.wikipedia.org/wiki/Coffee
 house of cards,https://en.wikipedia.org/wiki/House_of_Cards_(U.S._TV_series)
 ```
 
-How does it work? [Read the tutorial](blob/master/tutorial.md).
+How does it work? [Read the tutorial](tutorial.md).
